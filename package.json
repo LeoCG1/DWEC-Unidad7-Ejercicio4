@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "js-confetti": "^0.11.0",
+    "pure-snow.js": "^2.0.0"
+  }
+}
